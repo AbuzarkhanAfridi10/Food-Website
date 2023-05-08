@@ -85,7 +85,7 @@ h1{
     justify-content: space-between;
     flex-wrap: wrap;
     width: 100%;
-    margin-bottom: 100px;
+    margin-bottom:100px;
 }
 .product-text{
     display: flex;
