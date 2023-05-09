@@ -56,7 +56,7 @@
   
 
 .banner-section{
-    background: url('../img/bg-section.jpg');
+    background: url(../img/bg-section.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     width: 100%;
@@ -85,7 +85,7 @@ h1{
     justify-content: space-between;
     flex-wrap: wrap;
     width: 100%;
-    margin-bottom:100px;
+    margin-bottom: 100px;
 }
 .product-text{
     display: flex;
